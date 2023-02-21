@@ -1,0 +1,16 @@
+div.content {
+    display: flex;
+    padding: 1em;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+div.content > .grub {
+    position: relative;
+    display: flex;
+    margin-bottom: 1em;
+    padding: .5rem;
+    border-bottom: .2px solid #3b3b3b;
+    font-size: small;
+    color: #3b3b3b;
+}
