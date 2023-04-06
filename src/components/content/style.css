@@ -13,4 +13,5 @@ div.content > .grub {
     border-bottom: .2px solid #3b3b3b;
     font-size: small;
     color: #3b3b3b;
+    font-style: oblique;
 }
